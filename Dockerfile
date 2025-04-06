@@ -12,3 +12,4 @@ COPY app/ .
 
 CMD ["python", "app.py"]
 
+# This is a test build for AWS CodePipeline
